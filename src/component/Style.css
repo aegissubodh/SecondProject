@@ -1,0 +1,13 @@
+.ButtonStyle{
+    background-color: aqua;
+    font-weight: 600;
+    color:black;
+    border-radius: 9px;
+    
+}
+
+input{
+    width: 120px;
+    height: 18px;
+    border-radius: 9px;
+}
