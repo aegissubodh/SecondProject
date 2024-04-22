@@ -1,0 +1,20 @@
+.footerpart{
+    width: 1240px;
+    height: 340px;
+    top: 5708px;
+    left: 1340px;
+    gap: 0px;
+    border-radius: 70px 70px 70px 70px;
+    opacity: 0px;
+   background: linear-gradient(147.15deg, #C105F8 -6.15%, #741BFE 112.65%);
+    
+}
+
+.innerbox{
+    width: 1049.86px;
+    height: 277px;
+   margin-top: 34px !important;
+    margin-left: 91px;
+border-style: solid;
+border-color: #000000;
+}
