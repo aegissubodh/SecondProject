@@ -25,7 +25,7 @@ import FormIk from './component/FormValidation';
 import Solution1CreateContext from './component/ContextApi2/Example1';
 import PassExample1 from './component/PasswordValidation/PassExample1';
 import PassExample2 from './component/PasswordValidation/PassExample2';
-import BoorStrap from './component/BootstrapPractice';
+//import BoorStrap from './component/BootstrapPractice';
 import PureComponent from './component/PureVsImpure/PureComponent';
 import ImPureComponent from './component/PureVsImpure/ImPureComponent';
 import Reducer from './component/Reducer';
@@ -37,11 +37,20 @@ import SuspenseComponent from './component/LazyComponent/SuspenseComponent';
 import ErrorBoundary from './component/ReactError/ErrorBoundry';
 //import Counter from './component/ReactError/Counter';
 import Promises from './component/Promises/Promises';
-import Counter from './component/UnitTesing/Counter';
+//import Counter from './component/UnitTesing/Counter';
 import ComponentWith from './component/Practice/ComponentWith';
-import Search from './component/Practice/Search';
-import PostData from './component/Practice/PostData';
-//import Update from './component/Practice/Update';
+import FileUpload from './component/FileUpload';
+import MultipleFileUpload from './component/MultipleFileUpload';
+import LoginWithImageUpload from './LoginWithImageUpload';
+import Programe from './component/Programe';
+//import Search from './component/Practice/Search';
+//import PostData from './component/Practice/PostData';
+import Stories from './component/Stories';
+import Mentor from './component/Mentor';
+import TopHiring from './component/TopHiring';
+import Registration from './component/Registration';
+import Footer from './component/Footer';
+
 
 
 function App() {
@@ -133,8 +142,18 @@ function App() {
     {/* <Counter/> */}
       {/* <ComponentWith/> */}
       {/* <Search/> */}
-      <PostData/>
+      {/* <PostData/> */}
       {/* <Update/> */}
+      {/* <FileUpload/> */}
+      {/* <MultipleFileUpload/> */}
+      {/* <LoginWithImageUpload/> */}
+      {/* <Programe/> */}
+      {/* <Stories/> */}
+      {/* <Mentor/> */}
+      {/* <TopHiring/> */}
+      {/* <Registration/> */}
+      <Footer/>
+
 
   
 

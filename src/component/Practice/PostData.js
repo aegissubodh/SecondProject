@@ -54,6 +54,8 @@ const PostData = () =>{
                 
             }
         </table>
+        <h6>Add Your Contact Detail</h6>
+        <input type ="text" placeholder="Phone Number"/>
         </>
     )
 }
